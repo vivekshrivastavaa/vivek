@@ -17,6 +17,6 @@ deploy_staging:
     - echo "Deploy to gitlab server"
   environment:
     name: staging
-    url: https://staging.vivek.shrivastava@miraclegroup.com
-  only:
+    url: https://github.com/vivekshrivastavaa    
+    only:
   - master
