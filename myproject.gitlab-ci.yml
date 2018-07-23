@@ -19,4 +19,7 @@ deploy_staging:
     name: staging
     url: https://github.com/vivekshrivastavaa    
     only:
-  - master
+  - master 
+
+   gitlab to github
+
