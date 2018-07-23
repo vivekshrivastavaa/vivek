@@ -14,7 +14,7 @@ build:
 deploy_staging:
   stage: deploy
   script:
-    - echo "Deploy to gitlab server"
+    - echo "Deploy to github server"
   environment:
     name: staging
     url: https://github.com/vivekshrivastavaa    
